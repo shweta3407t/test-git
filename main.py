@@ -1,3 +1,3 @@
 print("Hello World")
-print("newine by feature 2")
+print("new line by feature 2")
 print("Proper print statment")
