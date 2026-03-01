@@ -1,2 +1,2 @@
 print("Hello World")
-print("Feature 1")
+print("Proper print statment")
